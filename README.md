@@ -21,8 +21,6 @@ dowmload ios_data & in xampp/htdocs
 
 download server & server model & run python server.py
 
-finish
-
 
 
 
