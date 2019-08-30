@@ -18,7 +18,9 @@ use case diagram
 -------------------------------------------------------------------------------------------------------------------------------
 
 dowmload ios_data & in xampp/htdocs
+
 download server & server model & run python server.py
+
 finish
 
 
@@ -26,3 +28,4 @@ finish
 
 
 leaf disease data from https://github.com/spMohanty/PlantVillage-Dataset
+
