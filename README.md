@@ -3,6 +3,9 @@ app model & server model
 
 https://drive.google.com/drive/folders/1iBpZTQa-jXUJRdtk1p2D0eh6adsy0oTX
 
+demo
+
+![image](https://github.com/qoo8327/ios_recognition/blob/master/demo/demo.png)
 
 total leaf disease 38
 
