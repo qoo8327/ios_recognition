@@ -15,6 +15,7 @@ use case diagram
 
 ![image](https://github.com/qoo8327/ios_recognition/blob/master/demo/user.png)
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 
